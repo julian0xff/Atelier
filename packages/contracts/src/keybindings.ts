@@ -10,6 +10,7 @@ export const MAX_KEYBINDINGS_COUNT = 256;
 const STATIC_KEYBINDING_COMMANDS = [
   "terminal.toggle",
   "terminal.split",
+  "terminal.split.horizontal",
   "terminal.new",
   "terminal.close",
   "diff.toggle",
